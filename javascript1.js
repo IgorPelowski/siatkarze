@@ -1,1 +1,3 @@
-console.log(22 + 22);
+const color = document.querySelector('.siatkarze-kurek_tekst');
+color.style.backgroundColor = 'green';
+console.log('jd');
